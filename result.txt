@@ -1,0 +1,49 @@
+First test:
+Test Configuration-1 save time: 20; load time: 14
+----------------------------------------------------------------------------------------------------
+Test Ini-1 save time: 5; load time: 43
+Test Ini-2 save time: 5; load time: 32
+----------------------------------------------------------------------------------------------------
+Test Xml-1 save time: 79; load time: 48
+Test Xml-2 save time: 12; load time: 34
+Test Xml-3 save time: 20; load time: 25
+----------------------------------------------------------------------------------------------------
+Test Yaml-1 save time: 144; load time: 109
+Test Yaml-2 save time: 74; load time: 89
+Test Yaml-3 save time: 67; load time: 62
+----------------------------------------------------------------------------------------------------
+Test Json-1 save time: 39; load time: 19
+Test Json-2 save time: 19; load time: 9
+Test Json-3 save time: 16; load time: 7
+Test Json-4 save time: 44; load time: 42
+----------------------------------------------------------------------------------------------------
+Test Serialize-1 save time: 12; load time: 15
+Test Serialize-2 save time: 6; load time: 9
+Test Serialize-3 save time: 5; load time: 7
+Test Serialize-4 save time: 20; load time: 31
+
+----------------------------------------------------------------------------------------------------
+
+Second test:
+Test Configuration-1 save time: 7; load time: 14
+----------------------------------------------------------------------------------------------------
+Test Ini-1 save time: 3; load time: 34
+Test Ini-2 save time: 6; load time: 22
+----------------------------------------------------------------------------------------------------
+Test Xml-1 save time: 8; load time: 17
+Test Xml-2 save time: 11; load time: 20
+Test Xml-3 save time: 11; load time: 99
+----------------------------------------------------------------------------------------------------
+Test Yaml-1 save time: 52; load time: 48
+Test Yaml-2 save time: 43; load time: 46
+Test Yaml-3 save time: 50; load time: 56
+----------------------------------------------------------------------------------------------------
+Test Json-1 save time: 10; load time: 5
+Test Json-2 save time: 11; load time: 6
+Test Json-3 save time: 13; load time: 8
+Test Json-4 save time: 33; load time: 12
+----------------------------------------------------------------------------------------------------
+Test Serialize-1 save time: 3; load time: 4
+Test Serialize-2 save time: 3; load time: 4
+Test Serialize-3 save time: 4; load time: 4
+Test Serialize-4 save time: 16; load time: 19
